@@ -16,14 +16,10 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.validation.Valid;
 import java.lang.reflect.Field;
 
-/**
- * @author hongbinzhou
- * @version 1.0
- * @title: HelloController
- * @description: TODO
- * @date 2019/3/6
- */
 
+/**
+ * 修改说明
+ */
 @RestController
 @RequestMapping("/hello")
 public class HelloController {
